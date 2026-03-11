@@ -2,6 +2,8 @@
 
 A Bash script to analyze basic server performance statistics on Linux systems.
 
+Visit [Project URL](Visit [GitHub](https://github.com) for more information.) for more information.
+
 ## Description
 
 This script provides essential server performance metrics including CPU usage, memory usage, disk usage, and top processes by CPU and memory consumption. It also includes additional information like OS version, uptime, load average, logged-in users, and failed login attempts.
