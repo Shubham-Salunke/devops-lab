@@ -2,7 +2,7 @@
 
 A Bash script to analyze basic server performance statistics on Linux systems.
 
-Visit [Project URL](Visit [GitHub](https://github.com) for more information.) for more information.
+Project URL: [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
 
 ## Description
 
