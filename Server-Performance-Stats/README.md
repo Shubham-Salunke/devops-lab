@@ -4,7 +4,7 @@ A Bash script to analyze basic server performance statistics on Linux systems.
 
 ## Project URL
 
-[https://github.com/yourusername/server-performance-stats](https://github.com/yourusername/server-performance-stats)
+[https://github.com/Shubham-Salunke/devops-lab/tree/master/Server-Performance-Stats](https://github.com/Shubham-Salunke/devops-lab/tree/master/Server-Performance-Stats)
 
 ## Description
 
