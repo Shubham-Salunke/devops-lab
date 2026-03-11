@@ -21,7 +21,7 @@ This script provides essential server performance metrics including CPU usage, m
 1. Clone or download the repository:
    ```
    git clone https://github.com/Shubham-Salunke/devops-lab.git
-   cd server-performance-stats
+   cd Server-Performance-Stats
    ```
 
 2. Make the script executable:
