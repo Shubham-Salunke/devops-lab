@@ -53,6 +53,3 @@ The script displays:
 - Top 5 Processes by Memory Usage
 - Recent Failed Login Attempts
 
-## License
-
-[MIT License](LICENSE)
